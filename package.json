@@ -1,0 +1,25 @@
+{
+  "name": "@hdgenius/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roy-stewart/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Roy Stewart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roy-stewart/prettier-config/issues"
+  },
+  "homepage": "https://github.com/roy-stewart/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
